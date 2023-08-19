@@ -1,0 +1,3432 @@
+[
+    {
+        "jyutping": "uk",
+        "initial": "",
+        "final": "uk"
+    },
+    {
+        "jyutping": "ung",
+        "initial": "",
+        "final": "ung"
+    },
+    {
+        "jyutping": "e",
+        "initial": "",
+        "final": "e"
+    },
+    {
+        "jyutping": "ei",
+        "initial": "",
+        "final": "ei"
+    },
+    {
+        "jyutping": "oe",
+        "initial": "",
+        "final": "oe"
+    },
+    {
+        "jyutping": "o",
+        "initial": "",
+        "final": "o"
+    },
+    {
+        "jyutping": "ok",
+        "initial": "",
+        "final": "ok"
+    },
+    {
+        "jyutping": "om",
+        "initial": "",
+        "final": "om"
+    },
+    {
+        "jyutping": "on",
+        "initial": "",
+        "final": "on"
+    },
+    {
+        "jyutping": "ong",
+        "initial": "",
+        "final": "ong"
+    },
+    {
+        "jyutping": "oi",
+        "initial": "",
+        "final": "oi"
+    },
+    {
+        "jyutping": "ou",
+        "initial": "",
+        "final": "ou"
+    },
+    {
+        "jyutping": "ap",
+        "initial": "",
+        "final": "ap"
+    },
+    {
+        "jyutping": "at",
+        "initial": "",
+        "final": "at"
+    },
+    {
+        "jyutping": "ak",
+        "initial": "",
+        "final": "ak"
+    },
+    {
+        "jyutping": "am",
+        "initial": "",
+        "final": "am"
+    },
+    {
+        "jyutping": "an",
+        "initial": "",
+        "final": "an"
+    },
+    {
+        "jyutping": "ang",
+        "initial": "",
+        "final": "ang"
+    },
+    {
+        "jyutping": "ai",
+        "initial": "",
+        "final": "ai"
+    },
+    {
+        "jyutping": "au",
+        "initial": "",
+        "final": "au"
+    },
+    {
+        "jyutping": "aa",
+        "initial": "",
+        "final": "aa"
+    },
+    {
+        "jyutping": "aap",
+        "initial": "",
+        "final": "aap"
+    },
+    {
+        "jyutping": "aat",
+        "initial": "",
+        "final": "aat"
+    },
+    {
+        "jyutping": "aak",
+        "initial": "",
+        "final": "aak"
+    },
+    {
+        "jyutping": "aam",
+        "initial": "",
+        "final": "aam"
+    },
+    {
+        "jyutping": "aan",
+        "initial": "",
+        "final": "aan"
+    },
+    {
+        "jyutping": "aang",
+        "initial": "",
+        "final": "aang"
+    },
+    {
+        "jyutping": "aai",
+        "initial": "",
+        "final": "aai"
+    },
+    {
+        "jyutping": "aau",
+        "initial": "",
+        "final": "aau"
+    },
+    {
+        "jyutping": "m",
+        "initial": "",
+        "final": "m"
+    },
+    {
+        "jyutping": "ng",
+        "initial": "",
+        "final": "ng"
+    },
+    {
+        "jyutping": "bit",
+        "initial": "b",
+        "final": "it"
+    },
+    {
+        "jyutping": "bik",
+        "initial": "b",
+        "final": "ik"
+    },
+    {
+        "jyutping": "bin",
+        "initial": "b",
+        "final": "in"
+    },
+    {
+        "jyutping": "bing",
+        "initial": "b",
+        "final": "ing"
+    },
+    {
+        "jyutping": "biu",
+        "initial": "b",
+        "final": "iu"
+    },
+    {
+        "jyutping": "bu",
+        "initial": "b",
+        "final": "u"
+    },
+    {
+        "jyutping": "but",
+        "initial": "b",
+        "final": "ut"
+    },
+    {
+        "jyutping": "buk",
+        "initial": "b",
+        "final": "uk"
+    },
+    {
+        "jyutping": "bun",
+        "initial": "b",
+        "final": "un"
+    },
+    {
+        "jyutping": "bung",
+        "initial": "b",
+        "final": "ung"
+    },
+    {
+        "jyutping": "bui",
+        "initial": "b",
+        "final": "ui"
+    },
+    {
+        "jyutping": "be",
+        "initial": "b",
+        "final": "e"
+    },
+    {
+        "jyutping": "bek",
+        "initial": "b",
+        "final": "ek"
+    },
+    {
+        "jyutping": "beng",
+        "initial": "b",
+        "final": "eng"
+    },
+    {
+        "jyutping": "bei",
+        "initial": "b",
+        "final": "ei"
+    },
+    {
+        "jyutping": "bo",
+        "initial": "b",
+        "final": "o"
+    },
+    {
+        "jyutping": "bok",
+        "initial": "b",
+        "final": "ok"
+    },
+    {
+        "jyutping": "bong",
+        "initial": "b",
+        "final": "ong"
+    },
+    {
+        "jyutping": "bou",
+        "initial": "b",
+        "final": "ou"
+    },
+    {
+        "jyutping": "bat",
+        "initial": "b",
+        "final": "at"
+    },
+    {
+        "jyutping": "bak",
+        "initial": "b",
+        "final": "ak"
+    },
+    {
+        "jyutping": "bam",
+        "initial": "b",
+        "final": "am"
+    },
+    {
+        "jyutping": "ban",
+        "initial": "b",
+        "final": "an"
+    },
+    {
+        "jyutping": "bang",
+        "initial": "b",
+        "final": "ang"
+    },
+    {
+        "jyutping": "bai",
+        "initial": "b",
+        "final": "ai"
+    },
+    {
+        "jyutping": "bau",
+        "initial": "b",
+        "final": "au"
+    },
+    {
+        "jyutping": "baa",
+        "initial": "b",
+        "final": "aa"
+    },
+    {
+        "jyutping": "baat",
+        "initial": "b",
+        "final": "aat"
+    },
+    {
+        "jyutping": "baak",
+        "initial": "b",
+        "final": "aak"
+    },
+    {
+        "jyutping": "baan",
+        "initial": "b",
+        "final": "aan"
+    },
+    {
+        "jyutping": "baang",
+        "initial": "b",
+        "final": "aang"
+    },
+    {
+        "jyutping": "baai",
+        "initial": "b",
+        "final": "aai"
+    },
+    {
+        "jyutping": "baau",
+        "initial": "b",
+        "final": "aau"
+    },
+    {
+        "jyutping": "pit",
+        "initial": "p",
+        "final": "it"
+    },
+    {
+        "jyutping": "pik",
+        "initial": "p",
+        "final": "ik"
+    },
+    {
+        "jyutping": "pin",
+        "initial": "p",
+        "final": "in"
+    },
+    {
+        "jyutping": "ping",
+        "initial": "p",
+        "final": "ing"
+    },
+    {
+        "jyutping": "piu",
+        "initial": "p",
+        "final": "iu"
+    },
+    {
+        "jyutping": "put",
+        "initial": "p",
+        "final": "ut"
+    },
+    {
+        "jyutping": "puk",
+        "initial": "p",
+        "final": "uk"
+    },
+    {
+        "jyutping": "pun",
+        "initial": "p",
+        "final": "un"
+    },
+    {
+        "jyutping": "pung",
+        "initial": "p",
+        "final": "ung"
+    },
+    {
+        "jyutping": "pui",
+        "initial": "p",
+        "final": "ui"
+    },
+    {
+        "jyutping": "pe",
+        "initial": "p",
+        "final": "e"
+    },
+    {
+        "jyutping": "pet",
+        "initial": "p",
+        "final": "et"
+    },
+    {
+        "jyutping": "pek",
+        "initial": "p",
+        "final": "ek"
+    },
+    {
+        "jyutping": "peng",
+        "initial": "p",
+        "final": "eng"
+    },
+    {
+        "jyutping": "pei",
+        "initial": "p",
+        "final": "ei"
+    },
+    {
+        "jyutping": "po",
+        "initial": "p",
+        "final": "o"
+    },
+    {
+        "jyutping": "pok",
+        "initial": "p",
+        "final": "ok"
+    },
+    {
+        "jyutping": "pong",
+        "initial": "p",
+        "final": "ong"
+    },
+    {
+        "jyutping": "pou",
+        "initial": "p",
+        "final": "ou"
+    },
+    {
+        "jyutping": "pat",
+        "initial": "p",
+        "final": "at"
+    },
+    {
+        "jyutping": "pak",
+        "initial": "p",
+        "final": "ak"
+    },
+    {
+        "jyutping": "pan",
+        "initial": "p",
+        "final": "an"
+    },
+    {
+        "jyutping": "pang",
+        "initial": "p",
+        "final": "ang"
+    },
+    {
+        "jyutping": "pai",
+        "initial": "p",
+        "final": "ai"
+    },
+    {
+        "jyutping": "pau",
+        "initial": "p",
+        "final": "au"
+    },
+    {
+        "jyutping": "paa",
+        "initial": "p",
+        "final": "aa"
+    },
+    {
+        "jyutping": "paat",
+        "initial": "p",
+        "final": "aat"
+    },
+    {
+        "jyutping": "paak",
+        "initial": "p",
+        "final": "aak"
+    },
+    {
+        "jyutping": "paan",
+        "initial": "p",
+        "final": "aan"
+    },
+    {
+        "jyutping": "paang",
+        "initial": "p",
+        "final": "aang"
+    },
+    {
+        "jyutping": "paai",
+        "initial": "p",
+        "final": "aai"
+    },
+    {
+        "jyutping": "paau",
+        "initial": "p",
+        "final": "aau"
+    },
+    {
+        "jyutping": "mi",
+        "initial": "m",
+        "final": "i"
+    },
+    {
+        "jyutping": "mit",
+        "initial": "m",
+        "final": "it"
+    },
+    {
+        "jyutping": "mik",
+        "initial": "m",
+        "final": "ik"
+    },
+    {
+        "jyutping": "min",
+        "initial": "m",
+        "final": "in"
+    },
+    {
+        "jyutping": "ming",
+        "initial": "m",
+        "final": "ing"
+    },
+    {
+        "jyutping": "miu",
+        "initial": "m",
+        "final": "iu"
+    },
+    {
+        "jyutping": "mut",
+        "initial": "m",
+        "final": "ut"
+    },
+    {
+        "jyutping": "muk",
+        "initial": "m",
+        "final": "uk"
+    },
+    {
+        "jyutping": "mun",
+        "initial": "m",
+        "final": "un"
+    },
+    {
+        "jyutping": "mung",
+        "initial": "m",
+        "final": "ung"
+    },
+    {
+        "jyutping": "mui",
+        "initial": "m",
+        "final": "ui"
+    },
+    {
+        "jyutping": "me",
+        "initial": "m",
+        "final": "e"
+    },
+    {
+        "jyutping": "meng",
+        "initial": "m",
+        "final": "eng"
+    },
+    {
+        "jyutping": "mei",
+        "initial": "m",
+        "final": "ei"
+    },
+    {
+        "jyutping": "mo",
+        "initial": "m",
+        "final": "o"
+    },
+    {
+        "jyutping": "mok",
+        "initial": "m",
+        "final": "ok"
+    },
+    {
+        "jyutping": "mong",
+        "initial": "m",
+        "final": "ong"
+    },
+    {
+        "jyutping": "moi",
+        "initial": "m",
+        "final": "oi"
+    },
+    {
+        "jyutping": "mou",
+        "initial": "m",
+        "final": "ou"
+    },
+    {
+        "jyutping": "mat",
+        "initial": "m",
+        "final": "at"
+    },
+    {
+        "jyutping": "mak",
+        "initial": "m",
+        "final": "ak"
+    },
+    {
+        "jyutping": "man",
+        "initial": "m",
+        "final": "an"
+    },
+    {
+        "jyutping": "mang",
+        "initial": "m",
+        "final": "ang"
+    },
+    {
+        "jyutping": "mai",
+        "initial": "m",
+        "final": "ai"
+    },
+    {
+        "jyutping": "mau",
+        "initial": "m",
+        "final": "au"
+    },
+    {
+        "jyutping": "maa",
+        "initial": "m",
+        "final": "aa"
+    },
+    {
+        "jyutping": "maat",
+        "initial": "m",
+        "final": "aat"
+    },
+    {
+        "jyutping": "maak",
+        "initial": "m",
+        "final": "aak"
+    },
+    {
+        "jyutping": "maan",
+        "initial": "m",
+        "final": "aan"
+    },
+    {
+        "jyutping": "maang",
+        "initial": "m",
+        "final": "aang"
+    },
+    {
+        "jyutping": "maai",
+        "initial": "m",
+        "final": "aai"
+    },
+    {
+        "jyutping": "maau",
+        "initial": "m",
+        "final": "aau"
+    },
+    {
+        "jyutping": "fing",
+        "initial": "f",
+        "final": "ing"
+    },
+    {
+        "jyutping": "fiu",
+        "initial": "f",
+        "final": "iu"
+    },
+    {
+        "jyutping": "fu",
+        "initial": "f",
+        "final": "u"
+    },
+    {
+        "jyutping": "fut",
+        "initial": "f",
+        "final": "ut"
+    },
+    {
+        "jyutping": "fuk",
+        "initial": "f",
+        "final": "uk"
+    },
+    {
+        "jyutping": "fun",
+        "initial": "f",
+        "final": "un"
+    },
+    {
+        "jyutping": "fung",
+        "initial": "f",
+        "final": "ung"
+    },
+    {
+        "jyutping": "fui",
+        "initial": "f",
+        "final": "ui"
+    },
+    {
+        "jyutping": "fe",
+        "initial": "f",
+        "final": "e"
+    },
+    {
+        "jyutping": "fei",
+        "initial": "f",
+        "final": "ei"
+    },
+    {
+        "jyutping": "fo",
+        "initial": "f",
+        "final": "o"
+    },
+    {
+        "jyutping": "fok",
+        "initial": "f",
+        "final": "ok"
+    },
+    {
+        "jyutping": "fong",
+        "initial": "f",
+        "final": "ong"
+    },
+    {
+        "jyutping": "fat",
+        "initial": "f",
+        "final": "at"
+    },
+    {
+        "jyutping": "fan",
+        "initial": "f",
+        "final": "an"
+    },
+    {
+        "jyutping": "fang",
+        "initial": "f",
+        "final": "ang"
+    },
+    {
+        "jyutping": "fai",
+        "initial": "f",
+        "final": "ai"
+    },
+    {
+        "jyutping": "fau",
+        "initial": "f",
+        "final": "au"
+    },
+    {
+        "jyutping": "faa",
+        "initial": "f",
+        "final": "aa"
+    },
+    {
+        "jyutping": "faat",
+        "initial": "f",
+        "final": "aat"
+    },
+    {
+        "jyutping": "faak",
+        "initial": "f",
+        "final": "aak"
+    },
+    {
+        "jyutping": "faan",
+        "initial": "f",
+        "final": "aan"
+    },
+    {
+        "jyutping": "faai",
+        "initial": "f",
+        "final": "aai"
+    },
+    {
+        "jyutping": "faau",
+        "initial": "f",
+        "final": "aau"
+    },
+    {
+        "jyutping": "di",
+        "initial": "d",
+        "final": "i"
+    },
+    {
+        "jyutping": "dip",
+        "initial": "d",
+        "final": "ip"
+    },
+    {
+        "jyutping": "dit",
+        "initial": "d",
+        "final": "it"
+    },
+    {
+        "jyutping": "dik",
+        "initial": "d",
+        "final": "ik"
+    },
+    {
+        "jyutping": "dim",
+        "initial": "d",
+        "final": "im"
+    },
+    {
+        "jyutping": "din",
+        "initial": "d",
+        "final": "in"
+    },
+    {
+        "jyutping": "ding",
+        "initial": "d",
+        "final": "ing"
+    },
+    {
+        "jyutping": "diu",
+        "initial": "d",
+        "final": "iu"
+    },
+    {
+        "jyutping": "dyut",
+        "initial": "d",
+        "final": "yut"
+    },
+    {
+        "jyutping": "dyun",
+        "initial": "d",
+        "final": "yun"
+    },
+    {
+        "jyutping": "duk",
+        "initial": "d",
+        "final": "uk"
+    },
+    {
+        "jyutping": "dung",
+        "initial": "d",
+        "final": "ung"
+    },
+    {
+        "jyutping": "de",
+        "initial": "d",
+        "final": "e"
+    },
+    {
+        "jyutping": "dek",
+        "initial": "d",
+        "final": "ek"
+    },
+    {
+        "jyutping": "deng",
+        "initial": "d",
+        "final": "eng"
+    },
+    {
+        "jyutping": "dei",
+        "initial": "d",
+        "final": "ei"
+    },
+    {
+        "jyutping": "deu",
+        "initial": "d",
+        "final": "eu"
+    },
+    {
+        "jyutping": "deot",
+        "initial": "d",
+        "final": "eot"
+    },
+    {
+        "jyutping": "deon",
+        "initial": "d",
+        "final": "eon"
+    },
+    {
+        "jyutping": "deoi",
+        "initial": "d",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "doe",
+        "initial": "d",
+        "final": "oe"
+    },
+    {
+        "jyutping": "doek",
+        "initial": "d",
+        "final": "oek"
+    },
+    {
+        "jyutping": "doeng",
+        "initial": "d",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "do",
+        "initial": "d",
+        "final": "o"
+    },
+    {
+        "jyutping": "dok",
+        "initial": "d",
+        "final": "ok"
+    },
+    {
+        "jyutping": "dong",
+        "initial": "d",
+        "final": "ong"
+    },
+    {
+        "jyutping": "doi",
+        "initial": "d",
+        "final": "oi"
+    },
+    {
+        "jyutping": "dou",
+        "initial": "d",
+        "final": "ou"
+    },
+    {
+        "jyutping": "dap",
+        "initial": "d",
+        "final": "ap"
+    },
+    {
+        "jyutping": "dat",
+        "initial": "d",
+        "final": "at"
+    },
+    {
+        "jyutping": "dak",
+        "initial": "d",
+        "final": "ak"
+    },
+    {
+        "jyutping": "dam",
+        "initial": "d",
+        "final": "am"
+    },
+    {
+        "jyutping": "dan",
+        "initial": "d",
+        "final": "an"
+    },
+    {
+        "jyutping": "dang",
+        "initial": "d",
+        "final": "ang"
+    },
+    {
+        "jyutping": "dai",
+        "initial": "d",
+        "final": "ai"
+    },
+    {
+        "jyutping": "dau",
+        "initial": "d",
+        "final": "au"
+    },
+    {
+        "jyutping": "daa",
+        "initial": "d",
+        "final": "aa"
+    },
+    {
+        "jyutping": "daap",
+        "initial": "d",
+        "final": "aap"
+    },
+    {
+        "jyutping": "daat",
+        "initial": "d",
+        "final": "aat"
+    },
+    {
+        "jyutping": "daak",
+        "initial": "d",
+        "final": "aak"
+    },
+    {
+        "jyutping": "daam",
+        "initial": "d",
+        "final": "aam"
+    },
+    {
+        "jyutping": "daan",
+        "initial": "d",
+        "final": "aan"
+    },
+    {
+        "jyutping": "daang",
+        "initial": "d",
+        "final": "aang"
+    },
+    {
+        "jyutping": "daai",
+        "initial": "d",
+        "final": "aai"
+    },
+    {
+        "jyutping": "daau",
+        "initial": "d",
+        "final": "aau"
+    },
+    {
+        "jyutping": "ti",
+        "initial": "t",
+        "final": "i"
+    },
+    {
+        "jyutping": "tip",
+        "initial": "t",
+        "final": "ip"
+    },
+    {
+        "jyutping": "tit",
+        "initial": "t",
+        "final": "it"
+    },
+    {
+        "jyutping": "tik",
+        "initial": "t",
+        "final": "ik"
+    },
+    {
+        "jyutping": "tim",
+        "initial": "t",
+        "final": "im"
+    },
+    {
+        "jyutping": "tin",
+        "initial": "t",
+        "final": "in"
+    },
+    {
+        "jyutping": "ting",
+        "initial": "t",
+        "final": "ing"
+    },
+    {
+        "jyutping": "tiu",
+        "initial": "t",
+        "final": "iu"
+    },
+    {
+        "jyutping": "tyut",
+        "initial": "t",
+        "final": "yut"
+    },
+    {
+        "jyutping": "tyun",
+        "initial": "t",
+        "final": "yun"
+    },
+    {
+        "jyutping": "tuk",
+        "initial": "t",
+        "final": "uk"
+    },
+    {
+        "jyutping": "tung",
+        "initial": "t",
+        "final": "ung"
+    },
+    {
+        "jyutping": "tek",
+        "initial": "t",
+        "final": "ek"
+    },
+    {
+        "jyutping": "teng",
+        "initial": "t",
+        "final": "eng"
+    },
+    {
+        "jyutping": "teon",
+        "initial": "t",
+        "final": "eon"
+    },
+    {
+        "jyutping": "teoi",
+        "initial": "t",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "toe",
+        "initial": "t",
+        "final": "oe"
+    },
+    {
+        "jyutping": "to",
+        "initial": "t",
+        "final": "o"
+    },
+    {
+        "jyutping": "tok",
+        "initial": "t",
+        "final": "ok"
+    },
+    {
+        "jyutping": "tong",
+        "initial": "t",
+        "final": "ong"
+    },
+    {
+        "jyutping": "toi",
+        "initial": "t",
+        "final": "oi"
+    },
+    {
+        "jyutping": "tou",
+        "initial": "t",
+        "final": "ou"
+    },
+    {
+        "jyutping": "tap",
+        "initial": "t",
+        "final": "ap"
+    },
+    {
+        "jyutping": "tat",
+        "initial": "t",
+        "final": "at"
+    },
+    {
+        "jyutping": "tam",
+        "initial": "t",
+        "final": "am"
+    },
+    {
+        "jyutping": "tan",
+        "initial": "t",
+        "final": "an"
+    },
+    {
+        "jyutping": "tang",
+        "initial": "t",
+        "final": "ang"
+    },
+    {
+        "jyutping": "tai",
+        "initial": "t",
+        "final": "ai"
+    },
+    {
+        "jyutping": "tau",
+        "initial": "t",
+        "final": "au"
+    },
+    {
+        "jyutping": "taa",
+        "initial": "t",
+        "final": "aa"
+    },
+    {
+        "jyutping": "taap",
+        "initial": "t",
+        "final": "aap"
+    },
+    {
+        "jyutping": "taat",
+        "initial": "t",
+        "final": "aat"
+    },
+    {
+        "jyutping": "taam",
+        "initial": "t",
+        "final": "aam"
+    },
+    {
+        "jyutping": "taan",
+        "initial": "t",
+        "final": "aan"
+    },
+    {
+        "jyutping": "taang",
+        "initial": "t",
+        "final": "aang"
+    },
+    {
+        "jyutping": "taai",
+        "initial": "t",
+        "final": "aai"
+    },
+    {
+        "jyutping": "taau",
+        "initial": "t",
+        "final": "aau"
+    },
+    {
+        "jyutping": "ni",
+        "initial": "n",
+        "final": "i"
+    },
+    {
+        "jyutping": "nip",
+        "initial": "n",
+        "final": "ip"
+    },
+    {
+        "jyutping": "nit",
+        "initial": "n",
+        "final": "it"
+    },
+    {
+        "jyutping": "nik",
+        "initial": "n",
+        "final": "ik"
+    },
+    {
+        "jyutping": "nim",
+        "initial": "n",
+        "final": "im"
+    },
+    {
+        "jyutping": "nin",
+        "initial": "n",
+        "final": "in"
+    },
+    {
+        "jyutping": "ning",
+        "initial": "n",
+        "final": "ing"
+    },
+    {
+        "jyutping": "niu",
+        "initial": "n",
+        "final": "iu"
+    },
+    {
+        "jyutping": "nyun",
+        "initial": "n",
+        "final": "yun"
+    },
+    {
+        "jyutping": "nuk",
+        "initial": "n",
+        "final": "uk"
+    },
+    {
+        "jyutping": "nung",
+        "initial": "n",
+        "final": "ung"
+    },
+    {
+        "jyutping": "ne",
+        "initial": "n",
+        "final": "e"
+    },
+    {
+        "jyutping": "nei",
+        "initial": "n",
+        "final": "ei"
+    },
+    {
+        "jyutping": "neot",
+        "initial": "n",
+        "final": "eot"
+    },
+    {
+        "jyutping": "neoi",
+        "initial": "n",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "noeng",
+        "initial": "n",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "no",
+        "initial": "n",
+        "final": "o"
+    },
+    {
+        "jyutping": "nok",
+        "initial": "n",
+        "final": "ok"
+    },
+    {
+        "jyutping": "nong",
+        "initial": "n",
+        "final": "ong"
+    },
+    {
+        "jyutping": "noi",
+        "initial": "n",
+        "final": "oi"
+    },
+    {
+        "jyutping": "nou",
+        "initial": "n",
+        "final": "ou"
+    },
+    {
+        "jyutping": "nap",
+        "initial": "n",
+        "final": "ap"
+    },
+    {
+        "jyutping": "nat",
+        "initial": "n",
+        "final": "at"
+    },
+    {
+        "jyutping": "nam",
+        "initial": "n",
+        "final": "am"
+    },
+    {
+        "jyutping": "nan",
+        "initial": "n",
+        "final": "an"
+    },
+    {
+        "jyutping": "nang",
+        "initial": "n",
+        "final": "ang"
+    },
+    {
+        "jyutping": "nai",
+        "initial": "n",
+        "final": "ai"
+    },
+    {
+        "jyutping": "nau",
+        "initial": "n",
+        "final": "au"
+    },
+    {
+        "jyutping": "naa",
+        "initial": "n",
+        "final": "aa"
+    },
+    {
+        "jyutping": "naap",
+        "initial": "n",
+        "final": "aap"
+    },
+    {
+        "jyutping": "naat",
+        "initial": "n",
+        "final": "aat"
+    },
+    {
+        "jyutping": "naam",
+        "initial": "n",
+        "final": "aam"
+    },
+    {
+        "jyutping": "naan",
+        "initial": "n",
+        "final": "aan"
+    },
+    {
+        "jyutping": "naang",
+        "initial": "n",
+        "final": "aang"
+    },
+    {
+        "jyutping": "naai",
+        "initial": "n",
+        "final": "aai"
+    },
+    {
+        "jyutping": "naau",
+        "initial": "n",
+        "final": "aau"
+    },
+    {
+        "jyutping": "li",
+        "initial": "l",
+        "final": "i"
+    },
+    {
+        "jyutping": "lip",
+        "initial": "l",
+        "final": "ip"
+    },
+    {
+        "jyutping": "lit",
+        "initial": "l",
+        "final": "it"
+    },
+    {
+        "jyutping": "lik",
+        "initial": "l",
+        "final": "ik"
+    },
+    {
+        "jyutping": "lim",
+        "initial": "l",
+        "final": "im"
+    },
+    {
+        "jyutping": "lin",
+        "initial": "l",
+        "final": "in"
+    },
+    {
+        "jyutping": "ling",
+        "initial": "l",
+        "final": "ing"
+    },
+    {
+        "jyutping": "liu",
+        "initial": "l",
+        "final": "iu"
+    },
+    {
+        "jyutping": "lyut",
+        "initial": "l",
+        "final": "yut"
+    },
+    {
+        "jyutping": "lyun",
+        "initial": "l",
+        "final": "yun"
+    },
+    {
+        "jyutping": "luk",
+        "initial": "l",
+        "final": "uk"
+    },
+    {
+        "jyutping": "lung",
+        "initial": "l",
+        "final": "ung"
+    },
+    {
+        "jyutping": "le",
+        "initial": "l",
+        "final": "e"
+    },
+    {
+        "jyutping": "lek",
+        "initial": "l",
+        "final": "ek"
+    },
+    {
+        "jyutping": "lem",
+        "initial": "l",
+        "final": "em"
+    },
+    {
+        "jyutping": "leng",
+        "initial": "l",
+        "final": "eng"
+    },
+    {
+        "jyutping": "lei",
+        "initial": "l",
+        "final": "ei"
+    },
+    {
+        "jyutping": "leot",
+        "initial": "l",
+        "final": "eot"
+    },
+    {
+        "jyutping": "leon",
+        "initial": "l",
+        "final": "eon"
+    },
+    {
+        "jyutping": "leoi",
+        "initial": "l",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "loet",
+        "initial": "l",
+        "final": "oet"
+    },
+    {
+        "jyutping": "loek",
+        "initial": "l",
+        "final": "oek"
+    },
+    {
+        "jyutping": "loeng",
+        "initial": "l",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "loei",
+        "initial": "l",
+        "final": "oei"
+    },
+    {
+        "jyutping": "lo",
+        "initial": "l",
+        "final": "o"
+    },
+    {
+        "jyutping": "lok",
+        "initial": "l",
+        "final": "ok"
+    },
+    {
+        "jyutping": "long",
+        "initial": "l",
+        "final": "ong"
+    },
+    {
+        "jyutping": "loi",
+        "initial": "l",
+        "final": "oi"
+    },
+    {
+        "jyutping": "lou",
+        "initial": "l",
+        "final": "ou"
+    },
+    {
+        "jyutping": "lap",
+        "initial": "l",
+        "final": "ap"
+    },
+    {
+        "jyutping": "lat",
+        "initial": "l",
+        "final": "at"
+    },
+    {
+        "jyutping": "lak",
+        "initial": "l",
+        "final": "ak"
+    },
+    {
+        "jyutping": "lam",
+        "initial": "l",
+        "final": "am"
+    },
+    {
+        "jyutping": "lan",
+        "initial": "l",
+        "final": "an"
+    },
+    {
+        "jyutping": "lang",
+        "initial": "l",
+        "final": "ang"
+    },
+    {
+        "jyutping": "lai",
+        "initial": "l",
+        "final": "ai"
+    },
+    {
+        "jyutping": "lau",
+        "initial": "l",
+        "final": "au"
+    },
+    {
+        "jyutping": "laa",
+        "initial": "l",
+        "final": "aa"
+    },
+    {
+        "jyutping": "laap",
+        "initial": "l",
+        "final": "aap"
+    },
+    {
+        "jyutping": "laat",
+        "initial": "l",
+        "final": "aat"
+    },
+    {
+        "jyutping": "laak",
+        "initial": "l",
+        "final": "aak"
+    },
+    {
+        "jyutping": "laam",
+        "initial": "l",
+        "final": "aam"
+    },
+    {
+        "jyutping": "laan",
+        "initial": "l",
+        "final": "aan"
+    },
+    {
+        "jyutping": "laang",
+        "initial": "l",
+        "final": "aang"
+    },
+    {
+        "jyutping": "laai",
+        "initial": "l",
+        "final": "aai"
+    },
+    {
+        "jyutping": "laau",
+        "initial": "l",
+        "final": "aau"
+    },
+    {
+        "jyutping": "gip",
+        "initial": "g",
+        "final": "ip"
+    },
+    {
+        "jyutping": "git",
+        "initial": "g",
+        "final": "it"
+    },
+    {
+        "jyutping": "gik",
+        "initial": "g",
+        "final": "ik"
+    },
+    {
+        "jyutping": "gim",
+        "initial": "g",
+        "final": "im"
+    },
+    {
+        "jyutping": "gin",
+        "initial": "g",
+        "final": "in"
+    },
+    {
+        "jyutping": "ging",
+        "initial": "g",
+        "final": "ing"
+    },
+    {
+        "jyutping": "giu",
+        "initial": "g",
+        "final": "iu"
+    },
+    {
+        "jyutping": "gyut",
+        "initial": "g",
+        "final": "yut"
+    },
+    {
+        "jyutping": "gyun",
+        "initial": "g",
+        "final": "yun"
+    },
+    {
+        "jyutping": "gu",
+        "initial": "g",
+        "final": "u"
+    },
+    {
+        "jyutping": "gut",
+        "initial": "g",
+        "final": "ut"
+    },
+    {
+        "jyutping": "guk",
+        "initial": "g",
+        "final": "uk"
+    },
+    {
+        "jyutping": "gun",
+        "initial": "g",
+        "final": "un"
+    },
+    {
+        "jyutping": "gung",
+        "initial": "g",
+        "final": "ung"
+    },
+    {
+        "jyutping": "gui",
+        "initial": "g",
+        "final": "ui"
+    },
+    {
+        "jyutping": "ge",
+        "initial": "g",
+        "final": "e"
+    },
+    {
+        "jyutping": "gep",
+        "initial": "g",
+        "final": "ep"
+    },
+    {
+        "jyutping": "geng",
+        "initial": "g",
+        "final": "eng"
+    },
+    {
+        "jyutping": "gei",
+        "initial": "g",
+        "final": "ei"
+    },
+    {
+        "jyutping": "geoi",
+        "initial": "g",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "goe",
+        "initial": "g",
+        "final": "oe"
+    },
+    {
+        "jyutping": "goek",
+        "initial": "g",
+        "final": "oek"
+    },
+    {
+        "jyutping": "goeng",
+        "initial": "g",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "go",
+        "initial": "g",
+        "final": "o"
+    },
+    {
+        "jyutping": "got",
+        "initial": "g",
+        "final": "ot"
+    },
+    {
+        "jyutping": "gok",
+        "initial": "g",
+        "final": "ok"
+    },
+    {
+        "jyutping": "gon",
+        "initial": "g",
+        "final": "on"
+    },
+    {
+        "jyutping": "gong",
+        "initial": "g",
+        "final": "ong"
+    },
+    {
+        "jyutping": "goi",
+        "initial": "g",
+        "final": "oi"
+    },
+    {
+        "jyutping": "gou",
+        "initial": "g",
+        "final": "ou"
+    },
+    {
+        "jyutping": "gap",
+        "initial": "g",
+        "final": "ap"
+    },
+    {
+        "jyutping": "gat",
+        "initial": "g",
+        "final": "at"
+    },
+    {
+        "jyutping": "gak",
+        "initial": "g",
+        "final": "ak"
+    },
+    {
+        "jyutping": "gam",
+        "initial": "g",
+        "final": "am"
+    },
+    {
+        "jyutping": "gan",
+        "initial": "g",
+        "final": "an"
+    },
+    {
+        "jyutping": "gang",
+        "initial": "g",
+        "final": "ang"
+    },
+    {
+        "jyutping": "gai",
+        "initial": "g",
+        "final": "ai"
+    },
+    {
+        "jyutping": "gau",
+        "initial": "g",
+        "final": "au"
+    },
+    {
+        "jyutping": "gaa",
+        "initial": "g",
+        "final": "aa"
+    },
+    {
+        "jyutping": "gaap",
+        "initial": "g",
+        "final": "aap"
+    },
+    {
+        "jyutping": "gaat",
+        "initial": "g",
+        "final": "aat"
+    },
+    {
+        "jyutping": "gaak",
+        "initial": "g",
+        "final": "aak"
+    },
+    {
+        "jyutping": "gaam",
+        "initial": "g",
+        "final": "aam"
+    },
+    {
+        "jyutping": "gaan",
+        "initial": "g",
+        "final": "aan"
+    },
+    {
+        "jyutping": "gaang",
+        "initial": "g",
+        "final": "aang"
+    },
+    {
+        "jyutping": "gaai",
+        "initial": "g",
+        "final": "aai"
+    },
+    {
+        "jyutping": "gaau",
+        "initial": "g",
+        "final": "aau"
+    },
+    {
+        "jyutping": "kip",
+        "initial": "k",
+        "final": "ip"
+    },
+    {
+        "jyutping": "kit",
+        "initial": "k",
+        "final": "it"
+    },
+    {
+        "jyutping": "kim",
+        "initial": "k",
+        "final": "im"
+    },
+    {
+        "jyutping": "kin",
+        "initial": "k",
+        "final": "in"
+    },
+    {
+        "jyutping": "king",
+        "initial": "k",
+        "final": "ing"
+    },
+    {
+        "jyutping": "kiu",
+        "initial": "k",
+        "final": "iu"
+    },
+    {
+        "jyutping": "kyut",
+        "initial": "k",
+        "final": "yut"
+    },
+    {
+        "jyutping": "kyun",
+        "initial": "k",
+        "final": "yun"
+    },
+    {
+        "jyutping": "ku",
+        "initial": "k",
+        "final": "u"
+    },
+    {
+        "jyutping": "kut",
+        "initial": "k",
+        "final": "ut"
+    },
+    {
+        "jyutping": "kuk",
+        "initial": "k",
+        "final": "uk"
+    },
+    {
+        "jyutping": "kung",
+        "initial": "k",
+        "final": "ung"
+    },
+    {
+        "jyutping": "kui",
+        "initial": "k",
+        "final": "ui"
+    },
+    {
+        "jyutping": "ke",
+        "initial": "k",
+        "final": "e"
+    },
+    {
+        "jyutping": "kep",
+        "initial": "k",
+        "final": "ep"
+    },
+    {
+        "jyutping": "kek",
+        "initial": "k",
+        "final": "ek"
+    },
+    {
+        "jyutping": "kei",
+        "initial": "k",
+        "final": "ei"
+    },
+    {
+        "jyutping": "keoi",
+        "initial": "k",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "koe",
+        "initial": "k",
+        "final": "oe"
+    },
+    {
+        "jyutping": "koek",
+        "initial": "k",
+        "final": "oek"
+    },
+    {
+        "jyutping": "koeng",
+        "initial": "k",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "ko",
+        "initial": "k",
+        "final": "o"
+    },
+    {
+        "jyutping": "kok",
+        "initial": "k",
+        "final": "ok"
+    },
+    {
+        "jyutping": "kong",
+        "initial": "k",
+        "final": "ong"
+    },
+    {
+        "jyutping": "koi",
+        "initial": "k",
+        "final": "oi"
+    },
+    {
+        "jyutping": "kap",
+        "initial": "k",
+        "final": "ap"
+    },
+    {
+        "jyutping": "kat",
+        "initial": "k",
+        "final": "at"
+    },
+    {
+        "jyutping": "kak",
+        "initial": "k",
+        "final": "ak"
+    },
+    {
+        "jyutping": "kam",
+        "initial": "k",
+        "final": "am"
+    },
+    {
+        "jyutping": "kan",
+        "initial": "k",
+        "final": "an"
+    },
+    {
+        "jyutping": "kang",
+        "initial": "k",
+        "final": "ang"
+    },
+    {
+        "jyutping": "kai",
+        "initial": "k",
+        "final": "ai"
+    },
+    {
+        "jyutping": "kau",
+        "initial": "k",
+        "final": "au"
+    },
+    {
+        "jyutping": "kaa",
+        "initial": "k",
+        "final": "aa"
+    },
+    {
+        "jyutping": "kaap",
+        "initial": "k",
+        "final": "aap"
+    },
+    {
+        "jyutping": "kaat",
+        "initial": "k",
+        "final": "aat"
+    },
+    {
+        "jyutping": "kaak",
+        "initial": "k",
+        "final": "aak"
+    },
+    {
+        "jyutping": "kaam",
+        "initial": "k",
+        "final": "aam"
+    },
+    {
+        "jyutping": "kaan",
+        "initial": "k",
+        "final": "aan"
+    },
+    {
+        "jyutping": "kaai",
+        "initial": "k",
+        "final": "aai"
+    },
+    {
+        "jyutping": "kaau",
+        "initial": "k",
+        "final": "aau"
+    },
+    {
+        "jyutping": "ngit",
+        "initial": "ng",
+        "final": "it"
+    },
+    {
+        "jyutping": "nguk",
+        "initial": "ng",
+        "final": "uk"
+    },
+    {
+        "jyutping": "ngung",
+        "initial": "ng",
+        "final": "ung"
+    },
+    {
+        "jyutping": "ngo",
+        "initial": "ng",
+        "final": "o"
+    },
+    {
+        "jyutping": "ngok",
+        "initial": "ng",
+        "final": "ok"
+    },
+    {
+        "jyutping": "ngon",
+        "initial": "ng",
+        "final": "on"
+    },
+    {
+        "jyutping": "ngong",
+        "initial": "ng",
+        "final": "ong"
+    },
+    {
+        "jyutping": "ngoi",
+        "initial": "ng",
+        "final": "oi"
+    },
+    {
+        "jyutping": "ngou",
+        "initial": "ng",
+        "final": "ou"
+    },
+    {
+        "jyutping": "ngap",
+        "initial": "ng",
+        "final": "ap"
+    },
+    {
+        "jyutping": "ngat",
+        "initial": "ng",
+        "final": "at"
+    },
+    {
+        "jyutping": "ngak",
+        "initial": "ng",
+        "final": "ak"
+    },
+    {
+        "jyutping": "ngam",
+        "initial": "ng",
+        "final": "am"
+    },
+    {
+        "jyutping": "ngan",
+        "initial": "ng",
+        "final": "an"
+    },
+    {
+        "jyutping": "ngang",
+        "initial": "ng",
+        "final": "ang"
+    },
+    {
+        "jyutping": "ngai",
+        "initial": "ng",
+        "final": "ai"
+    },
+    {
+        "jyutping": "ngau",
+        "initial": "ng",
+        "final": "au"
+    },
+    {
+        "jyutping": "ngaa",
+        "initial": "ng",
+        "final": "aa"
+    },
+    {
+        "jyutping": "ngaap",
+        "initial": "ng",
+        "final": "aap"
+    },
+    {
+        "jyutping": "ngaat",
+        "initial": "ng",
+        "final": "aat"
+    },
+    {
+        "jyutping": "ngaak",
+        "initial": "ng",
+        "final": "aak"
+    },
+    {
+        "jyutping": "ngaam",
+        "initial": "ng",
+        "final": "aam"
+    },
+    {
+        "jyutping": "ngaan",
+        "initial": "ng",
+        "final": "aan"
+    },
+    {
+        "jyutping": "ngaang",
+        "initial": "ng",
+        "final": "aang"
+    },
+    {
+        "jyutping": "ngaai",
+        "initial": "ng",
+        "final": "aai"
+    },
+    {
+        "jyutping": "ngaau",
+        "initial": "ng",
+        "final": "aau"
+    },
+    {
+        "jyutping": "hip",
+        "initial": "h",
+        "final": "ip"
+    },
+    {
+        "jyutping": "hit",
+        "initial": "h",
+        "final": "it"
+    },
+    {
+        "jyutping": "him",
+        "initial": "h",
+        "final": "im"
+    },
+    {
+        "jyutping": "hin",
+        "initial": "h",
+        "final": "in"
+    },
+    {
+        "jyutping": "hing",
+        "initial": "h",
+        "final": "ing"
+    },
+    {
+        "jyutping": "hiu",
+        "initial": "h",
+        "final": "iu"
+    },
+    {
+        "jyutping": "hyut",
+        "initial": "h",
+        "final": "yut"
+    },
+    {
+        "jyutping": "hyun",
+        "initial": "h",
+        "final": "yun"
+    },
+    {
+        "jyutping": "huk",
+        "initial": "h",
+        "final": "uk"
+    },
+    {
+        "jyutping": "hung",
+        "initial": "h",
+        "final": "ung"
+    },
+    {
+        "jyutping": "he",
+        "initial": "h",
+        "final": "e"
+    },
+    {
+        "jyutping": "hek",
+        "initial": "h",
+        "final": "ek"
+    },
+    {
+        "jyutping": "heng",
+        "initial": "h",
+        "final": "eng"
+    },
+    {
+        "jyutping": "hei",
+        "initial": "h",
+        "final": "ei"
+    },
+    {
+        "jyutping": "heoi",
+        "initial": "h",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "hoe",
+        "initial": "h",
+        "final": "oe"
+    },
+    {
+        "jyutping": "hoeng",
+        "initial": "h",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "ho",
+        "initial": "h",
+        "final": "o"
+    },
+    {
+        "jyutping": "hot",
+        "initial": "h",
+        "final": "ot"
+    },
+    {
+        "jyutping": "hok",
+        "initial": "h",
+        "final": "ok"
+    },
+    {
+        "jyutping": "hon",
+        "initial": "h",
+        "final": "on"
+    },
+    {
+        "jyutping": "hong",
+        "initial": "h",
+        "final": "ong"
+    },
+    {
+        "jyutping": "hoi",
+        "initial": "h",
+        "final": "oi"
+    },
+    {
+        "jyutping": "hou",
+        "initial": "h",
+        "final": "ou"
+    },
+    {
+        "jyutping": "hap",
+        "initial": "h",
+        "final": "ap"
+    },
+    {
+        "jyutping": "hat",
+        "initial": "h",
+        "final": "at"
+    },
+    {
+        "jyutping": "hak",
+        "initial": "h",
+        "final": "ak"
+    },
+    {
+        "jyutping": "ham",
+        "initial": "h",
+        "final": "am"
+    },
+    {
+        "jyutping": "han",
+        "initial": "h",
+        "final": "an"
+    },
+    {
+        "jyutping": "hang",
+        "initial": "h",
+        "final": "ang"
+    },
+    {
+        "jyutping": "hai",
+        "initial": "h",
+        "final": "ai"
+    },
+    {
+        "jyutping": "hau",
+        "initial": "h",
+        "final": "au"
+    },
+    {
+        "jyutping": "haa",
+        "initial": "h",
+        "final": "aa"
+    },
+    {
+        "jyutping": "haap",
+        "initial": "h",
+        "final": "aap"
+    },
+    {
+        "jyutping": "haat",
+        "initial": "h",
+        "final": "aat"
+    },
+    {
+        "jyutping": "haak",
+        "initial": "h",
+        "final": "aak"
+    },
+    {
+        "jyutping": "haam",
+        "initial": "h",
+        "final": "aam"
+    },
+    {
+        "jyutping": "haan",
+        "initial": "h",
+        "final": "aan"
+    },
+    {
+        "jyutping": "haang",
+        "initial": "h",
+        "final": "aang"
+    },
+    {
+        "jyutping": "haai",
+        "initial": "h",
+        "final": "aai"
+    },
+    {
+        "jyutping": "haau",
+        "initial": "h",
+        "final": "aau"
+    },
+    {
+        "jyutping": "hm",
+        "initial": "h",
+        "final": "m"
+    },
+    {
+        "jyutping": "hng",
+        "initial": "h",
+        "final": "ng"
+    },
+    {
+        "jyutping": "gwik",
+        "initial": "gw",
+        "final": "ik"
+    },
+    {
+        "jyutping": "gwing",
+        "initial": "gw",
+        "final": "ing"
+    },
+    {
+        "jyutping": "gwo",
+        "initial": "gw",
+        "final": "o"
+    },
+    {
+        "jyutping": "gwok",
+        "initial": "gw",
+        "final": "ok"
+    },
+    {
+        "jyutping": "gwong",
+        "initial": "gw",
+        "final": "ong"
+    },
+    {
+        "jyutping": "gwat",
+        "initial": "gw",
+        "final": "at"
+    },
+    {
+        "jyutping": "gwan",
+        "initial": "gw",
+        "final": "an"
+    },
+    {
+        "jyutping": "gwang",
+        "initial": "gw",
+        "final": "ang"
+    },
+    {
+        "jyutping": "gwai",
+        "initial": "gw",
+        "final": "ai"
+    },
+    {
+        "jyutping": "gwaa",
+        "initial": "gw",
+        "final": "aa"
+    },
+    {
+        "jyutping": "gwaat",
+        "initial": "gw",
+        "final": "aat"
+    },
+    {
+        "jyutping": "gwaak",
+        "initial": "gw",
+        "final": "aak"
+    },
+    {
+        "jyutping": "gwaan",
+        "initial": "gw",
+        "final": "aan"
+    },
+    {
+        "jyutping": "gwaang",
+        "initial": "gw",
+        "final": "aang"
+    },
+    {
+        "jyutping": "gwaai",
+        "initial": "gw",
+        "final": "aai"
+    },
+    {
+        "jyutping": "kwik",
+        "initial": "kw",
+        "final": "ik"
+    },
+    {
+        "jyutping": "kwun",
+        "initial": "kw",
+        "final": "un"
+    },
+    {
+        "jyutping": "kwui",
+        "initial": "kw",
+        "final": "ui"
+    },
+    {
+        "jyutping": "kwok",
+        "initial": "kw",
+        "final": "ok"
+    },
+    {
+        "jyutping": "kwong",
+        "initial": "kw",
+        "final": "ong"
+    },
+    {
+        "jyutping": "kwan",
+        "initial": "kw",
+        "final": "an"
+    },
+    {
+        "jyutping": "kwai",
+        "initial": "kw",
+        "final": "ai"
+    },
+    {
+        "jyutping": "kwaa",
+        "initial": "kw",
+        "final": "aa"
+    },
+    {
+        "jyutping": "kwaan",
+        "initial": "kw",
+        "final": "aan"
+    },
+    {
+        "jyutping": "kwaang",
+        "initial": "kw",
+        "final": "aang"
+    },
+    {
+        "jyutping": "kwaai",
+        "initial": "kw",
+        "final": "aai"
+    },
+    {
+        "jyutping": "wi",
+        "initial": "w",
+        "final": "i"
+    },
+    {
+        "jyutping": "wik",
+        "initial": "w",
+        "final": "ik"
+    },
+    {
+        "jyutping": "wing",
+        "initial": "w",
+        "final": "ing"
+    },
+    {
+        "jyutping": "wu",
+        "initial": "w",
+        "final": "u"
+    },
+    {
+        "jyutping": "wut",
+        "initial": "w",
+        "final": "ut"
+    },
+    {
+        "jyutping": "wun",
+        "initial": "w",
+        "final": "un"
+    },
+    {
+        "jyutping": "wui",
+        "initial": "w",
+        "final": "ui"
+    },
+    {
+        "jyutping": "we",
+        "initial": "w",
+        "final": "e"
+    },
+    {
+        "jyutping": "wo",
+        "initial": "w",
+        "final": "o"
+    },
+    {
+        "jyutping": "wok",
+        "initial": "w",
+        "final": "ok"
+    },
+    {
+        "jyutping": "wong",
+        "initial": "w",
+        "final": "ong"
+    },
+    {
+        "jyutping": "wat",
+        "initial": "w",
+        "final": "at"
+    },
+    {
+        "jyutping": "wak",
+        "initial": "w",
+        "final": "ak"
+    },
+    {
+        "jyutping": "wan",
+        "initial": "w",
+        "final": "an"
+    },
+    {
+        "jyutping": "wang",
+        "initial": "w",
+        "final": "ang"
+    },
+    {
+        "jyutping": "wai",
+        "initial": "w",
+        "final": "ai"
+    },
+    {
+        "jyutping": "wau",
+        "initial": "w",
+        "final": "au"
+    },
+    {
+        "jyutping": "waa",
+        "initial": "w",
+        "final": "aa"
+    },
+    {
+        "jyutping": "waat",
+        "initial": "w",
+        "final": "aat"
+    },
+    {
+        "jyutping": "waak",
+        "initial": "w",
+        "final": "aak"
+    },
+    {
+        "jyutping": "waan",
+        "initial": "w",
+        "final": "aan"
+    },
+    {
+        "jyutping": "waang",
+        "initial": "w",
+        "final": "aang"
+    },
+    {
+        "jyutping": "waai",
+        "initial": "w",
+        "final": "aai"
+    },
+    {
+        "jyutping": "zi",
+        "initial": "z",
+        "final": "i"
+    },
+    {
+        "jyutping": "zip",
+        "initial": "z",
+        "final": "ip"
+    },
+    {
+        "jyutping": "zit",
+        "initial": "z",
+        "final": "it"
+    },
+    {
+        "jyutping": "zik",
+        "initial": "z",
+        "final": "ik"
+    },
+    {
+        "jyutping": "zim",
+        "initial": "z",
+        "final": "im"
+    },
+    {
+        "jyutping": "zin",
+        "initial": "z",
+        "final": "in"
+    },
+    {
+        "jyutping": "zing",
+        "initial": "z",
+        "final": "ing"
+    },
+    {
+        "jyutping": "ziu",
+        "initial": "z",
+        "final": "iu"
+    },
+    {
+        "jyutping": "zyu",
+        "initial": "z",
+        "final": "yu"
+    },
+    {
+        "jyutping": "zyut",
+        "initial": "z",
+        "final": "yut"
+    },
+    {
+        "jyutping": "zyun",
+        "initial": "z",
+        "final": "yun"
+    },
+    {
+        "jyutping": "zuk",
+        "initial": "z",
+        "final": "uk"
+    },
+    {
+        "jyutping": "zung",
+        "initial": "z",
+        "final": "ung"
+    },
+    {
+        "jyutping": "zui",
+        "initial": "z",
+        "final": "ui"
+    },
+    {
+        "jyutping": "ze",
+        "initial": "z",
+        "final": "e"
+    },
+    {
+        "jyutping": "zek",
+        "initial": "z",
+        "final": "ek"
+    },
+    {
+        "jyutping": "zeng",
+        "initial": "z",
+        "final": "eng"
+    },
+    {
+        "jyutping": "zeot",
+        "initial": "z",
+        "final": "eot"
+    },
+    {
+        "jyutping": "zeon",
+        "initial": "z",
+        "final": "eon"
+    },
+    {
+        "jyutping": "zeoi",
+        "initial": "z",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "zoe",
+        "initial": "z",
+        "final": "oe"
+    },
+    {
+        "jyutping": "zoek",
+        "initial": "z",
+        "final": "oek"
+    },
+    {
+        "jyutping": "zoeng",
+        "initial": "z",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "zo",
+        "initial": "z",
+        "final": "o"
+    },
+    {
+        "jyutping": "zok",
+        "initial": "z",
+        "final": "ok"
+    },
+    {
+        "jyutping": "zong",
+        "initial": "z",
+        "final": "ong"
+    },
+    {
+        "jyutping": "zoi",
+        "initial": "z",
+        "final": "oi"
+    },
+    {
+        "jyutping": "zou",
+        "initial": "z",
+        "final": "ou"
+    },
+    {
+        "jyutping": "zap",
+        "initial": "z",
+        "final": "ap"
+    },
+    {
+        "jyutping": "zat",
+        "initial": "z",
+        "final": "at"
+    },
+    {
+        "jyutping": "zak",
+        "initial": "z",
+        "final": "ak"
+    },
+    {
+        "jyutping": "zam",
+        "initial": "z",
+        "final": "am"
+    },
+    {
+        "jyutping": "zan",
+        "initial": "z",
+        "final": "an"
+    },
+    {
+        "jyutping": "zang",
+        "initial": "z",
+        "final": "ang"
+    },
+    {
+        "jyutping": "zai",
+        "initial": "z",
+        "final": "ai"
+    },
+    {
+        "jyutping": "zau",
+        "initial": "z",
+        "final": "au"
+    },
+    {
+        "jyutping": "zaa",
+        "initial": "z",
+        "final": "aa"
+    },
+    {
+        "jyutping": "zaap",
+        "initial": "z",
+        "final": "aap"
+    },
+    {
+        "jyutping": "zaat",
+        "initial": "z",
+        "final": "aat"
+    },
+    {
+        "jyutping": "zaak",
+        "initial": "z",
+        "final": "aak"
+    },
+    {
+        "jyutping": "zaam",
+        "initial": "z",
+        "final": "aam"
+    },
+    {
+        "jyutping": "zaan",
+        "initial": "z",
+        "final": "aan"
+    },
+    {
+        "jyutping": "zaang",
+        "initial": "z",
+        "final": "aang"
+    },
+    {
+        "jyutping": "zaai",
+        "initial": "z",
+        "final": "aai"
+    },
+    {
+        "jyutping": "zaau",
+        "initial": "z",
+        "final": "aau"
+    },
+    {
+        "jyutping": "ci",
+        "initial": "c",
+        "final": "i"
+    },
+    {
+        "jyutping": "cip",
+        "initial": "c",
+        "final": "ip"
+    },
+    {
+        "jyutping": "cit",
+        "initial": "c",
+        "final": "it"
+    },
+    {
+        "jyutping": "cik",
+        "initial": "c",
+        "final": "ik"
+    },
+    {
+        "jyutping": "cim",
+        "initial": "c",
+        "final": "im"
+    },
+    {
+        "jyutping": "cin",
+        "initial": "c",
+        "final": "in"
+    },
+    {
+        "jyutping": "cing",
+        "initial": "c",
+        "final": "ing"
+    },
+    {
+        "jyutping": "ciu",
+        "initial": "c",
+        "final": "iu"
+    },
+    {
+        "jyutping": "cyu",
+        "initial": "c",
+        "final": "yu"
+    },
+    {
+        "jyutping": "cyut",
+        "initial": "c",
+        "final": "yut"
+    },
+    {
+        "jyutping": "cyun",
+        "initial": "c",
+        "final": "yun"
+    },
+    {
+        "jyutping": "cuk",
+        "initial": "c",
+        "final": "uk"
+    },
+    {
+        "jyutping": "cun",
+        "initial": "c",
+        "final": "un"
+    },
+    {
+        "jyutping": "cung",
+        "initial": "c",
+        "final": "ung"
+    },
+    {
+        "jyutping": "ce",
+        "initial": "c",
+        "final": "e"
+    },
+    {
+        "jyutping": "cek",
+        "initial": "c",
+        "final": "ek"
+    },
+    {
+        "jyutping": "ceng",
+        "initial": "c",
+        "final": "eng"
+    },
+    {
+        "jyutping": "ceot",
+        "initial": "c",
+        "final": "eot"
+    },
+    {
+        "jyutping": "ceon",
+        "initial": "c",
+        "final": "eon"
+    },
+    {
+        "jyutping": "ceoi",
+        "initial": "c",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "coek",
+        "initial": "c",
+        "final": "oek"
+    },
+    {
+        "jyutping": "coeng",
+        "initial": "c",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "co",
+        "initial": "c",
+        "final": "o"
+    },
+    {
+        "jyutping": "cok",
+        "initial": "c",
+        "final": "ok"
+    },
+    {
+        "jyutping": "cong",
+        "initial": "c",
+        "final": "ong"
+    },
+    {
+        "jyutping": "coi",
+        "initial": "c",
+        "final": "oi"
+    },
+    {
+        "jyutping": "cou",
+        "initial": "c",
+        "final": "ou"
+    },
+    {
+        "jyutping": "cap",
+        "initial": "c",
+        "final": "ap"
+    },
+    {
+        "jyutping": "cat",
+        "initial": "c",
+        "final": "at"
+    },
+    {
+        "jyutping": "cak",
+        "initial": "c",
+        "final": "ak"
+    },
+    {
+        "jyutping": "cam",
+        "initial": "c",
+        "final": "am"
+    },
+    {
+        "jyutping": "can",
+        "initial": "c",
+        "final": "an"
+    },
+    {
+        "jyutping": "cang",
+        "initial": "c",
+        "final": "ang"
+    },
+    {
+        "jyutping": "cai",
+        "initial": "c",
+        "final": "ai"
+    },
+    {
+        "jyutping": "cau",
+        "initial": "c",
+        "final": "au"
+    },
+    {
+        "jyutping": "caa",
+        "initial": "c",
+        "final": "aa"
+    },
+    {
+        "jyutping": "caap",
+        "initial": "c",
+        "final": "aap"
+    },
+    {
+        "jyutping": "caat",
+        "initial": "c",
+        "final": "aat"
+    },
+    {
+        "jyutping": "caak",
+        "initial": "c",
+        "final": "aak"
+    },
+    {
+        "jyutping": "caam",
+        "initial": "c",
+        "final": "aam"
+    },
+    {
+        "jyutping": "caan",
+        "initial": "c",
+        "final": "aan"
+    },
+    {
+        "jyutping": "caang",
+        "initial": "c",
+        "final": "aang"
+    },
+    {
+        "jyutping": "caai",
+        "initial": "c",
+        "final": "aai"
+    },
+    {
+        "jyutping": "caau",
+        "initial": "c",
+        "final": "aau"
+    },
+    {
+        "jyutping": "si",
+        "initial": "s",
+        "final": "i"
+    },
+    {
+        "jyutping": "sip",
+        "initial": "s",
+        "final": "ip"
+    },
+    {
+        "jyutping": "sit",
+        "initial": "s",
+        "final": "it"
+    },
+    {
+        "jyutping": "sik",
+        "initial": "s",
+        "final": "ik"
+    },
+    {
+        "jyutping": "sim",
+        "initial": "s",
+        "final": "im"
+    },
+    {
+        "jyutping": "sin",
+        "initial": "s",
+        "final": "in"
+    },
+    {
+        "jyutping": "sing",
+        "initial": "s",
+        "final": "ing"
+    },
+    {
+        "jyutping": "siu",
+        "initial": "s",
+        "final": "iu"
+    },
+    {
+        "jyutping": "syu",
+        "initial": "s",
+        "final": "yu"
+    },
+    {
+        "jyutping": "syut",
+        "initial": "s",
+        "final": "yut"
+    },
+    {
+        "jyutping": "syun",
+        "initial": "s",
+        "final": "yun"
+    },
+    {
+        "jyutping": "suk",
+        "initial": "s",
+        "final": "uk"
+    },
+    {
+        "jyutping": "sung",
+        "initial": "s",
+        "final": "ung"
+    },
+    {
+        "jyutping": "se",
+        "initial": "s",
+        "final": "e"
+    },
+    {
+        "jyutping": "sek",
+        "initial": "s",
+        "final": "ek"
+    },
+    {
+        "jyutping": "seng",
+        "initial": "s",
+        "final": "eng"
+    },
+    {
+        "jyutping": "sei",
+        "initial": "s",
+        "final": "ei"
+    },
+    {
+        "jyutping": "seot",
+        "initial": "s",
+        "final": "eot"
+    },
+    {
+        "jyutping": "seon",
+        "initial": "s",
+        "final": "eon"
+    },
+    {
+        "jyutping": "seoi",
+        "initial": "s",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "soek",
+        "initial": "s",
+        "final": "oek"
+    },
+    {
+        "jyutping": "soeng",
+        "initial": "s",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "so",
+        "initial": "s",
+        "final": "o"
+    },
+    {
+        "jyutping": "sok",
+        "initial": "s",
+        "final": "ok"
+    },
+    {
+        "jyutping": "song",
+        "initial": "s",
+        "final": "ong"
+    },
+    {
+        "jyutping": "soi",
+        "initial": "s",
+        "final": "oi"
+    },
+    {
+        "jyutping": "sou",
+        "initial": "s",
+        "final": "ou"
+    },
+    {
+        "jyutping": "sap",
+        "initial": "s",
+        "final": "ap"
+    },
+    {
+        "jyutping": "sat",
+        "initial": "s",
+        "final": "at"
+    },
+    {
+        "jyutping": "sak",
+        "initial": "s",
+        "final": "ak"
+    },
+    {
+        "jyutping": "sam",
+        "initial": "s",
+        "final": "am"
+    },
+    {
+        "jyutping": "san",
+        "initial": "s",
+        "final": "an"
+    },
+    {
+        "jyutping": "sang",
+        "initial": "s",
+        "final": "ang"
+    },
+    {
+        "jyutping": "sai",
+        "initial": "s",
+        "final": "ai"
+    },
+    {
+        "jyutping": "sau",
+        "initial": "s",
+        "final": "au"
+    },
+    {
+        "jyutping": "saa",
+        "initial": "s",
+        "final": "aa"
+    },
+    {
+        "jyutping": "saap",
+        "initial": "s",
+        "final": "aap"
+    },
+    {
+        "jyutping": "saat",
+        "initial": "s",
+        "final": "aat"
+    },
+    {
+        "jyutping": "saak",
+        "initial": "s",
+        "final": "aak"
+    },
+    {
+        "jyutping": "saam",
+        "initial": "s",
+        "final": "aam"
+    },
+    {
+        "jyutping": "saan",
+        "initial": "s",
+        "final": "aan"
+    },
+    {
+        "jyutping": "saang",
+        "initial": "s",
+        "final": "aang"
+    },
+    {
+        "jyutping": "saai",
+        "initial": "s",
+        "final": "aai"
+    },
+    {
+        "jyutping": "saau",
+        "initial": "s",
+        "final": "aau"
+    },
+    {
+        "jyutping": "ji",
+        "initial": "j",
+        "final": "i"
+    },
+    {
+        "jyutping": "jip",
+        "initial": "j",
+        "final": "ip"
+    },
+    {
+        "jyutping": "jit",
+        "initial": "j",
+        "final": "it"
+    },
+    {
+        "jyutping": "jik",
+        "initial": "j",
+        "final": "ik"
+    },
+    {
+        "jyutping": "jim",
+        "initial": "j",
+        "final": "im"
+    },
+    {
+        "jyutping": "jin",
+        "initial": "j",
+        "final": "in"
+    },
+    {
+        "jyutping": "jing",
+        "initial": "j",
+        "final": "ing"
+    },
+    {
+        "jyutping": "jiu",
+        "initial": "j",
+        "final": "iu"
+    },
+    {
+        "jyutping": "jyu",
+        "initial": "j",
+        "final": "yu"
+    },
+    {
+        "jyutping": "jyut",
+        "initial": "j",
+        "final": "yut"
+    },
+    {
+        "jyutping": "jyun",
+        "initial": "j",
+        "final": "yun"
+    },
+    {
+        "jyutping": "juk",
+        "initial": "j",
+        "final": "uk"
+    },
+    {
+        "jyutping": "jung",
+        "initial": "j",
+        "final": "ung"
+    },
+    {
+        "jyutping": "je",
+        "initial": "j",
+        "final": "e"
+    },
+    {
+        "jyutping": "jeng",
+        "initial": "j",
+        "final": "eng"
+    },
+    {
+        "jyutping": "jeon",
+        "initial": "j",
+        "final": "eon"
+    },
+    {
+        "jyutping": "jeoi",
+        "initial": "j",
+        "final": "eoi"
+    },
+    {
+        "jyutping": "joek",
+        "initial": "j",
+        "final": "oek"
+    },
+    {
+        "jyutping": "joeng",
+        "initial": "j",
+        "final": "oeng"
+    },
+    {
+        "jyutping": "jo",
+        "initial": "j",
+        "final": "o"
+    },
+    {
+        "jyutping": "jap",
+        "initial": "j",
+        "final": "ap"
+    },
+    {
+        "jyutping": "jat",
+        "initial": "j",
+        "final": "at"
+    },
+    {
+        "jyutping": "jam",
+        "initial": "j",
+        "final": "am"
+    },
+    {
+        "jyutping": "jan",
+        "initial": "j",
+        "final": "an"
+    },
+    {
+        "jyutping": "jai",
+        "initial": "j",
+        "final": "ai"
+    },
+    {
+        "jyutping": "jau",
+        "initial": "j",
+        "final": "au"
+    },
+    {
+        "jyutping": "jaa",
+        "initial": "j",
+        "final": "aa"
+    },
+    {
+        "jyutping": "jaak",
+        "initial": "j",
+        "final": "aak"
+    },
+    {
+        "jyutping": "jaang",
+        "initial": "j",
+        "final": "aang"
+    },
+    {
+        "jyutping": "jaai",
+        "initial": "j",
+        "final": "aai"
+    },
+    {
+        "jyutping": "jaau",
+        "initial": "j",
+        "final": "aau"
+    }
+]
